@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LLkZeMiEwFOua18ZRDjbwnNEfBRJ0jDaa0TddKRdVa8kVDTbsZIOwxgrRXc40hdbOx7BtgzCIFuwELxrYADMJg==",
+  "dgSpecHash": "FMUdeFD3r/2G47vXJ5UtPa0HbWuUJzSmtYOk3hU0lohh2kh4BxUJSabmiD80Ahpx+KGm6YD8XdUhPCGWo5t3Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ju-sh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ju-sh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\ju-sh\\.nuget\\packages\\bootstrap\\5.3.0\\bootstrap.5.3.0.nupkg.sha512",
     "C:\\Users\\ju-sh\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ju-sh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ju-sh\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
