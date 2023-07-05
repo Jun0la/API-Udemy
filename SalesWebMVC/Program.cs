@@ -3,17 +3,18 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql;
+using SalesWebMVC.Data;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddDbContext<SalesWebMVC.Data.SalesWebMVCContext>
-(options => options.UseMySql(builder.Configuration.GetConnectionString("SalesWebMVCContext"),
-new MySqlServerVersion(new Version(8, 0, 27)),
-  mysqlOptions =>
-        {
-            mysqlOptions.MigrationsAssembly("SalesWebMVC");
-        }));
+builder.Services.AddDbContext<SalesWebMVC.Data.SalesWebMVCContext>(options =>
+    options.UseMySql(builder.Configuration.GetConnectionString("SalesWebMVCContext"),
+    new MySqlServerVersion(new Version(8, 0, 27)), mysqlOptions =>
+    {
+        mysqlOptions.MigrationsAssembly("SalesWebMVC");
+    }));
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<SeedingService>();
 
 var app = builder.Build();
 
@@ -28,5 +29,6 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
+
 
 app.Run();

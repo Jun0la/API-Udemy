@@ -263,6 +263,7 @@ C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7
 C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\SalesWebMVC.pdb
 C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\FluentAssertions.dll
 C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\Humanizer.dll
 C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
