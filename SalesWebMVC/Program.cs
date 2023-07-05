@@ -14,9 +14,14 @@ builder.Services.AddDbContext<SalesWebMVC.Data.SalesWebMVCContext>(options =>
     }));
 
 builder.Services.AddControllersWithViews();
+
+//
 builder.Services.AddScoped<SeedingService>();
+//
+
 
 var app = builder.Build();
+
 
 if (!app.Environment.IsDevelopment())
 {
@@ -29,6 +34,18 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
+
+/*app.Use(async (context, next) =>
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var services = scope.ServiceProvider;
+        var seedingService = services.GetRequiredService<SeedingService>();
+        seedingService.Seed();
+    }
+
+    await next();
+});*/
 
 
 app.Run();
