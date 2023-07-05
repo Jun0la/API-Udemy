@@ -4,6 +4,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql;
 using SalesWebMVC.Data;
+using SalesWebMVC.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<SalesWebMVC.Data.SalesWebMVCContext>(options =>
@@ -17,6 +18,7 @@ builder.Services.AddControllersWithViews();
 
 //
 builder.Services.AddScoped<SeedingService>();
+builder.Services.AddScoped<SellerService>();
 //
 
 
