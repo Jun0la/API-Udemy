@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OunCD/bQQrieV+OQLvzBv//eIagBd7DQLQzFdSpKGRfrwCLR5nzYBziDNcJke2bhxt6C0q1qE3Kx9KT0sR9JkQ==",
+  "dgSpecHash": "5AI3ZD3CV958QCLUZVSTisVNzTia6S2s4tDqmEVHYqV1qdW8Lu8NpiwJRfqQOknl8Zqvhu6nzPydQ8lcKfDANQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ju-sh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ju-sh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectPath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API\\SalesWebMVC\\SalesWebMVC.csproj",
         "packagesPath": "C:\\Users\\ju-sh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

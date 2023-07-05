@@ -9,61 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SalesWebMVC
 build_property.RootNamespace = SalesWebMVC
-build_property.ProjectDir = C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC\
+build_property.ProjectDir = C:\Users\ju-sh\OneDrive\Área de Trabalho\API\SalesWebMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ju-sh\OneDrive\Área de Trabalho\SalesWebMVC\SalesWebMVC
+build_property.MSBuildProjectDirectory = C:\Users\ju-sh\OneDrive\Área de Trabalho\API\SalesWebMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Departments/Create.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Departments/Delete.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Departments/Details.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Departments/Edit.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Departments/Index.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Home/Index.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Home/Privacy.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Sellers/Index.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Sellers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Sellers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Shared/Error.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/_ViewImports.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/_ViewStart.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ju-sh/OneDrive/Área de Trabalho/SalesWebMVC/SalesWebMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/ju-sh/OneDrive/Área de Trabalho/API/SalesWebMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3mitwalolv

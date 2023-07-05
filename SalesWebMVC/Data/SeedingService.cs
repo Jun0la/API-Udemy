@@ -15,11 +15,11 @@ namespace SalesWebMVC.Data
 
         public void Seed()
         {
-        /*    if (_context.Department.Any() || _context.Seller.Any() || _context.SalesRecord.Any())
+             if (_context.Department.Any() || _context.Seller.Any() || _context.SalesRecord.Any())
             {
                 return; 
-            }*/
-            //
+            }
+          
             Department d1 = new Department(1, "Computers");
             Department d2 = new Department(2, "Eletronics");
 
