@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql;
 using SalesWebMVC.Data;
 using SalesWebMVC.Services;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<SalesWebMVC.Data.SalesWebMVCContext>(options =>
@@ -25,6 +27,15 @@ builder.Services.AddScoped<DepartmentService>();
 
 var app = builder.Build();
 
+var enUS = new CultureInfo("en-US");
+var localizationOptions = new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture("en-US"),
+    SupportedCultures = new List<CultureInfo> { enUS },
+    SupportedUICultures = new List<CultureInfo> { enUS }
+};
+
+app.UseRequestLocalization(localizationOptions);
 
 if (!app.Environment.IsDevelopment())
 {
@@ -49,6 +60,5 @@ app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Inde
 
     await next();
 });*/
-
 
 app.Run();
