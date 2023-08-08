@@ -1,4 +1,4 @@
-﻿namespace SalesWebMvc.Controllers
+﻿namespace SalesWebMVC.Controllers
 {
     internal class ErrorViewModel
     {
